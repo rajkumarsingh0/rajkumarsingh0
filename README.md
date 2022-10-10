@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rajkumar Singh</h1>
+![logo](https://github.com/rajkumarsingh0/rajkumarsingh0/blob/main/Full_Stack_Developer3.png)
+<h1> <align="center">Hi 👋, I'm Rajkumar Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajkumarsingh0" alt="rajkumarsingh0" /></a> </p>
